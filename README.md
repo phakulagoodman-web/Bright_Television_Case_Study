@@ -10,3 +10,5 @@ AIM
 The aim of the project is to provide analysis with key insights on why there is a declain in viewership across the country
 
 Objectives
+
+The following steps were taken to execute the project brainstorming using MIro, Project planning using Canva, Data processing using Databricks and the final stage which is Project presentation-- used google looker studio.
