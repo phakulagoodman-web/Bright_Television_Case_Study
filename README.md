@@ -1,8 +1,5 @@
 # Bright_Television_Case_Study
-This case study is  to determine why Bright tv viewership 
-
-##Problem statement
-
+This case study is  to determine why Bright tv viewership Dropped over the period of Three months.
 BrightTV ‘s CEO has an objective to grow the company’s subscription base for this financial year.
 
 The dataset attached contains information on the user profiles and viewer transactions for BrightTV.
