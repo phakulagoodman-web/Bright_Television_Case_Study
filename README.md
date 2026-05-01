@@ -12,7 +12,7 @@ Provide actionable insights on user and usage trends, identify factors influenci
 
 The following steps were taken to execute the project brainstorming using MIro, Project planning using Canva, Data processing using Databricks and the final stage which is Project presentation-- Dashboard used google looker studio and presentation using powerpoint
 
-##Summary of rsults
+##Summary of results
 
 *With 35.7% of the audience, Gauteng deserves dedicated regional sponsorships and prime-time scheduling.
 *A 9.7% female share is an opportunity. Test counter-programming and acquisition campaigns aimed at women 18–34.
